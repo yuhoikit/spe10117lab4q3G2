@@ -2,9 +2,10 @@
 | - | - |
 | Q1: | This paper is about trust-free systems blockchain technology benefited by third-party providers and it can solve concepts and solve problem potentially |
 | Q2: | Blockchain,Sharing economy,Trust,Trust-free system,Literature review |
-| Q3: | blockchain technology is suitable to overcome the issue of trust in platform providers to some degree |
-| Q4: | blockchain technology in and by itself is not able to provide an environment that renders trust-building outside the closed blockchain ecosystem obsolete |
-| Q5: | From this paper,I learn blockchain technology like a database to record transaction and comform the deal.It always use as Bitcon to deal.In other angle,it is a safety database to let people trust it. |
+| Q3: | it is proposed as the fundament of an alternative scenario for today’s mainly platform-driven sharing economy.Compare the past, it is a very new and complex technique.
+| Q4: | blockchain technology is suitable to overcome the issue of trust in platform providers to some degree |
+| Q5: | blockchain technology in and by itself is not able to provide an environment that renders trust-building outside the closed blockchain ecosystem obsolete |
+| Q6: | From this paper,I learn blockchain technology like a database to record transaction and comform the deal.It always use as Bitcon to deal.In other angle,it is a safety database to let people trust it. |
 ###
 | | | | |
 | - | - | - | - |
